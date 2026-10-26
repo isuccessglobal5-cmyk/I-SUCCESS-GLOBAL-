@@ -1,0 +1,6 @@
+{
+  "name": "iSuccess Global - Agriculture & Food Supply",
+  "description": "Your trusted partner in poultry production, farm-fresh foodstuffs, rice, beans, and agricultural supply.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

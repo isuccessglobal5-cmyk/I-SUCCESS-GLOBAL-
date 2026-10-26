@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --brand-burgundy: #7A0C16;
+    --brand-dark-burgundy: #4A050B;
+    --brand-crimson: #C4161F;
+    --brand-gold: #E5A83B;
+  }
+
+  body {
+    font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  }
+
+  h1, h2, h3, .font-display {
+    letter-spacing: -0.02em;
+  }
+}
+
+.font-script {
+  font-family: 'Playfair Display', serif;
+  font-style: italic;
+}
